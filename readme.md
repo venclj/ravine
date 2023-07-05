@@ -12,3 +12,4 @@ Jednotlivé části rozšíření:
     * Definice vlastních html značek
     * Získávání dat přes WP API
   * Registrace rozšíření v systému WP
+    
